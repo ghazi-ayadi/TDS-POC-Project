@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: niryo_one_tcp_client
+Version: 0.1
+Summary: A tcp client python that manages the tcp communication with a Niryo One robot
+Author: Corentin Ducatez
+Author-email: c.ducatez@niryo.com
+License: GPLv3
+Requires-Dist: rospkg
+Requires-Dist: PyYAML
